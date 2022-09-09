@@ -26,3 +26,9 @@ width="30px" height="height">
 <img src="images/linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a> 
+
+
+<br>
+
+### 📊 Personal Stats:
+[![Camden's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdenk)](https://github.com/camdenk)
