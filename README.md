@@ -32,3 +32,4 @@ width="30px" height="height">
 
 ### 📊 Personal Stats:
 [![Camden's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdenk)](https://github.com/camdenk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camdenk&layout=compact)](https://github.com/camdenk)
