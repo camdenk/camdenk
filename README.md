@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+### 🤝 Connect with me:
+<a href="https://twitter.com/k_camden">
+<img src="images/twitter.png" alt="alternate text"
+width="30px" height="height">
+</a> 
+<a href="https://www.linkedin.com/in/camden-kay/">
+<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">
+</a> 
