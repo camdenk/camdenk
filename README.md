@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Camden 👋
 
-My name is Camden Kay and I'm a data scientist with a passion for sports analytics.
+I'm a data scientist with a passion for sports analytics.
 
 <br>
 
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="25" height="25"/> </a>
 
 #### Author
-<a href='http://camdenk.github.io/mlbplotR'><img src='images/mlbplotR.png' style="float:center;margin:20px" height="150"/></a>
+<a href='http://camdenk.github.io/mlbplotR'><img src='images/mlbplotR.png' style="float:center;margin:20px" height="100"/></a>
 
 #### Contributor
-<a href='http://billpetti.github.io/baseballr'><img src='images/baseballr.png' style="float:center;margin:20px" height="150" /></a>
+<a href='http://billpetti.github.io/baseballr'><img src='images/baseballr.png' style="float:center;margin:20px" height="100" /></a>
 
 ## Connect with me:
 
@@ -27,10 +27,6 @@ My name is Camden Kay and I'm a data scientist with a passion for sports analyti
 <br>
 
 [![Camden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camdenk)](https://github.com/camdenk) 
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camdenk&layout=compact)](https://github.com/camdenk)
 
 
 
