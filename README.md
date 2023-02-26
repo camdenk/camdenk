@@ -20,6 +20,8 @@ I'm a data scientist with a passion for sports analytics.
 
 <br>
 
+
+<!--
 ## Personal Stats:
 
 [![Camden's GitHub Streak](https://streak-stats.demolab.com/?user=camdenk)](https://github.com/camdenk) 
@@ -31,7 +33,7 @@ I'm a data scientist with a passion for sports analytics.
 
 
 
-<!--
+
 **camdenk/camdenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
