@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Camden Kay and I'm a data scientist with a passion for sports analytics.
+
 <br>
 
 ## R Packages <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="25" height="25"/> </a>
