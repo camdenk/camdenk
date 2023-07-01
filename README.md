@@ -18,7 +18,11 @@ I'm a data scientist with a passion for sports analytics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camden-kay/)
 
-<br>
+## Personal Stats:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camdenk&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camdenk&theme=github)
 
 
 <!--
